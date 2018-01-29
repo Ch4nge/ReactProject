@@ -1,0 +1,8 @@
+{
+    "public": {
+        "test": "Hello world!"
+    },
+    "private": {
+        "ptest": "Hello world(secret)!"
+    }
+}
